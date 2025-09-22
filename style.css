@@ -1,0 +1,13 @@
+body{
+    background-color: #DBFCFF;
+}
+
+#header{
+    background-color: #F8E16C;
+    height:25rem;
+    border-radius: 2rem;
+    width:90%;
+    position: relative;
+    margin-left: 5%;
+    margin-top:5rem;
+}
